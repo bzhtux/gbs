@@ -7,8 +7,8 @@ aka gobalekshell is a bash sheel wrapped into a golang app.
 ```shell
 go build -o gobalekshell .
 cp ./gobalekshell $SOMEWHERE_IN_YOUR_PATH
-goblekshell
-goblekshell> _
+gobalekshell
+gobalekshell> _
 ``` 
 
 enjoy the power of gobalekshell !
