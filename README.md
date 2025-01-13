@@ -1,6 +1,6 @@
 # Golang Balek Shell
 
-aka gobalekshell is a bash sheel wrapped into a golang app.
+aka gobalekshell is a bash shell wrapped into a golang app and based on the well known balek principle.
 
 ## Build
 
